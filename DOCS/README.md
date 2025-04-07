@@ -2,6 +2,8 @@
 # 🏛️ Publication automatisée de documents publics sur [vie-publique.sn](https://vie-publique.sn)  
 ## Comment traiter efficacement des milliers de documents publics ? Exemple d’implémentation, d’optimisation et de projection à plus grande échelle.
 
+ - Malick Y. sur Linkedin
+ 
 ---
 
 ## ⚙️ Contexte et Objectif
